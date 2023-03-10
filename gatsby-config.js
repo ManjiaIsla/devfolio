@@ -19,35 +19,35 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'my undergraduate thesis supervised by Zheng Jun and publish on Peking University Core "Economic Mathematics',
+        link: 'https://www.cnki.com.cn/Article/CJFDTotal-JJSX202002014.htm',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Personalized and Adaptive Multi-Objective Scoring Fusion Network [Inprogress]',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'Proposed an efficient way to transform the paradigm in the recall layer of recommender system into multi-task learning. Get verified on video recommender in Tencent and public dataset in Alibaba.',
+        link: '',
       },
       {
         name: 'Recommendation Engine',
         description:
           'Build a Recommendation System; Skills: TensorFlow · Algorithm and methogology · Data exploration',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        link: 'https://github.com/ManjiaIsla/proj_v_recom',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'xxxxx',
-        description: 'Algorithm Developer, Sep 2019 - Mar 2020',
-        link: 'https://github.com/ManjiaIsla/proj_v_recom',
+        name: 'Recommender System | System R&D Department | Meituan',
+        description: 'Algorithm Developer, May 2021 - Current',
+        link: '',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'smart QA system | AI Center | Ping An Technology',
+        description: 'Algorithm Developer, Jul 2020 - Nov 2020',
+        link: '',
       },
       {
         name: 'Hooli',
