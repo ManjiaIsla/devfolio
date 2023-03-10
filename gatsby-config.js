@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `A self-motivated technology enthusiast with proven skills and in depth knowledge in programming and algorithm. Have extensive research in AI and good at machine learning and deep learning. Proficient in using data-driven methods to design and monitor learning effects, identify bottlenecks and continue to optimize, practice in the fields of commodity retail and financial technology`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -31,18 +31,18 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Recommendation Engine',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'Build a Recommendation System; Skills: TensorFlow · Algorithm and methogology · Data exploration',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'xxxxx',
+        description: 'Algorithm Developer, Sep 2019 - Mar 2020',
+        link: 'https://github.com/ManjiaIsla/proj_v_recom',
       },
       {
         name: 'Globex Corp',
