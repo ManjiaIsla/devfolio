@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
-    // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
-    // Your Name
-    name: 'Ryan Fitzgerald',
-    // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
-    // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
-    // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
-    // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+// Site URL for when it goes live
+siteUrl: `https://manjiaisla.github.io/`,
+// Your Name
+name: 'Manjia(Lyn) LIN',
+// Main Site Title
+title: `Manjia(Lyn) LIN | Algorithm Engineer`,
+// Description that goes under your name in main bio
+description: `Extensive research in AI, #Data Mining #ML #DL #RL - practice in commodity retail and financial technology`,
+// Optional: Twitter account handle
+author: `@LynLIN17424271`,
+// Optional: Github account URL
+github: `https://github.com/ManjiaIsla`,
+// Optional: LinkedIn account URL
+linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
