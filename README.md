@@ -30,6 +30,7 @@ For a live demo of a slightly customized version of the template (my own persona
   - [About Me](#about-me)
   - [Projects](#projects)
   - [Experience](#experience)
+  - [Eduction](#eduction)
   - [Skills](#skills)
 - [Setting Up The Blog](#setting-up-the-blog)
 - [Running Locally](#running-locally)
@@ -73,6 +74,18 @@ The _Projects_ section is defined as an array under the `projects` key in the co
 ### Experience
 
 The _Experience_ section is defined as an array under the `experience` key in the config and is optional. Experience items have the following format:
+
+```js
+{
+  name: 'Hooli', // Required
+  description: 'Full-Stack Developer, May 2015 - December 2017', // Required
+  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
+},
+```
+
+### Education
+
+The _Education_ section is defined as an array under the `education` key in the config and is optional. Education items have the following format:
 
 ```js
 {

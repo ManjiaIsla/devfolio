@@ -55,6 +55,24 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
+    // Optional: List your education, they must have `name` and `description`. `link` is optional.
+    education: [
+      {
+        name: 'Recommender System | System R&D Department | Meituan',
+        description: 'Algorithm Developer, May 2021 - Current',
+        link: '',
+      },
+      {
+        name: 'smart QA system | AI Center | Ping An Technology',
+        description: 'Algorithm Developer, Jul 2020 - Nov 2020',
+        link: '',
+      },
+      {
+        name: 'Hooli',
+        description: 'Full-Stack Developer, May 2015 - December 2017',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+    ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
