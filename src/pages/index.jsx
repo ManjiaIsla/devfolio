@@ -9,7 +9,7 @@ import SectionBlog from '../components/section-blog';
 import SectionExperience from '../components/section-experience';
 import SectionEducation from '../components/section-education';
 import SectionProjects from '../components/section-projects';
-import sectionPublications from '../components/section-publications';
+import SectionPublications from '../components/section-publications';
 import SectionHonorsAndAwards from '../components/section-honorsandawards';
 import SectionSkills from '../components/section-skills';
 import SEO from '../components/seo';
