@@ -67,7 +67,7 @@ export const pageQuery = graphql`
           description
           link
         }
-        publication {
+        publications {
           name
           description
           link
