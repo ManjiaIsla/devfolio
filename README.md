@@ -28,10 +28,12 @@ For a live demo of a slightly customized version of the template (my own persona
 - [Adding Your Information](#adding-your-information)
   - [General](#general)
   - [About Me](#about-me)
+  - [Eduction](#eduction)
+  - [Publications](#publications)
   - [Projects](#projects)
   - [Experience](#experience)
-  - [Eduction](#eduction)
   - [Skills](#skills)
+  - [HonorsAndAwards](#honorsandawards)
 - [Setting Up The Blog](#setting-up-the-blog)
 - [Running Locally](#running-locally)
 - [Deploying](#deploying)
@@ -59,6 +61,30 @@ To get started, either fork or clone the repo. Next, open `gatsby-config.js` whi
 
 The _About Me_ section is defined under `about` and is a simple string type. This section is required.
 
+### Education
+
+The _Education_ section is defined as an array under the `education` key in the config and is optional. Education items have the following format:
+
+```js
+{
+  name: 'Hooli', // Required
+  description: 'Full-Stack Developer, May 2015 - December 2017', // Required
+  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
+},
+```
+
+### Publications
+
+The _Publications_ section is defined as an array under the `publications` key in the config and is optional. Publications have the following format:
+
+```js
+{
+  name: 'Devfolio', // Required
+  description: 'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS', // Required
+  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
+}
+```
+
 ### Projects
 
 The _Projects_ section is defined as an array under the `projects` key in the config and is optional. Projects have the following format:
@@ -83,18 +109,6 @@ The _Experience_ section is defined as an array under the `experience` key in th
 },
 ```
 
-### Education
-
-The _Education_ section is defined as an array under the `education` key in the config and is optional. Education items have the following format:
-
-```js
-{
-  name: 'Hooli', // Required
-  description: 'Full-Stack Developer, May 2015 - December 2017', // Required
-  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
-},
-```
-
 ### Skills
 
 The _Skills_ section is defined as an array under the `skills` key in the config and is optional. Skills have the following format:
@@ -103,6 +117,17 @@ The _Skills_ section is defined as an array under the `skills` key in the config
 {
   name: 'Languages & Frameworks',
   description: 'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+},
+```
+### HonorsAndAwards
+
+The _HonorsAndAwards_ section is defined as an array under the `honorsandawards` key in the config and is optional. Education items have the following format:
+
+```js
+{
+  name: 'Hooli', // Required
+  description: 'Full-Stack Developer, May 2015 - December 2017', // Required
+  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
 },
 ```
 

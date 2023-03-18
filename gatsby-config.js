@@ -86,49 +86,49 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     {
       name: 'Outstanding Graduates',
       description:
-        '',
+        'test1',
       link: '',
     },
     {
       name: 'Principal/Dean scholarships',
       description:
-        '',
+        'test2',
       link: '',
     },
     {
       name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
       description:
-        '',
+        'test3',
       link: '',
     },
     {
       name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
       description:
-        '',
+        'test1',
       link: '',
     },
     {
       name: 'Outstanding Student Leaders of the School',
       description:
-        '',
+        'test1',
       link: '',
     },
     {
       name: 'Academic Excellence Awards',
       description:
-        '',
-      link: '',
+        'test1',
+      link: 'test1',
     },
     {
       name: 'Academic Research Awards',
       description:
-        '',
+        'test1',
       link: '',
     },
     {
       name: 'Student Awards of Merit',
       description:
-        '',
+        'test1',
       link: '',
     },
   ],
