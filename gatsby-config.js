@@ -29,8 +29,8 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: '',
       }      
     ],
-    // Optional: List your publication, they must have `name` and `description`. `link` is optional.
-    publication: [
+    // Optional: List your publications, they must have `name` and `description`. `link` is optional.
+    publications: [
       {
         name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
@@ -57,7 +57,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
     ],
     // Optional: List your project, they must have `name` and `description`. `link` is optional.
-    project: [
+    projects: [
       {
         name: 'Recommender System | System R&D Department | Meituan',
         description: 'Algorithm Developer, May 2021 - Current',

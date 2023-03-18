@@ -3,12 +3,12 @@ import React from 'react';
 import Section from '../section';
 import SummaryItem from '../summary-item';
 
-const SectionPublication = ({ publication }) => {
-  if (!publication.length) return null;
+const SectionPublications = ({ publications }) => {
+  if (!publications.length) return null;
 
   return (
     <Section title="Publications">
-      {publication.map((publication) => (
+      {publications.map((publication) => (
         <SummaryItem
           key={publication.name}
           name={publication.name}
@@ -20,4 +20,4 @@ const SectionPublication = ({ publication }) => {
   );
 };
 
-export default SectionPublication;
+export default SectionPublications;

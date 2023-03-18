@@ -8,12 +8,12 @@ const SectionHonorsAndAwards = ({ honorsandawards }) => {
 
   return (
     <Section title="Honors And Awards">
-      {honorsandawards.map((honorsandawards) => (
+      {honorsandawards.map((honorsandaward) => (
         <SummaryItem
-          key={honorsandawards.name}
-          name={honorsandawards.name}
-          description={honorsandawards.description}
-          link={honorsandawards.link}
+          key={honorsandaward.name}
+          name={honorsandaward.name}
+          description={honorsandaward.description}
+          link={honorsandaward.link}
         />
       ))}
     </Section>

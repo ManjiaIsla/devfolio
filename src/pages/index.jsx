@@ -9,7 +9,7 @@ import SectionBlog from '../components/section-blog';
 import SectionExperience from '../components/section-experience';
 import SectionEducation from '../components/section-education';
 import SectionProjects from '../components/section-projects';
-import sectionPublication from '../components/section-publication';
+import sectionPublications from '../components/section-publications';
 import SectionHonorsAndAwards from '../components/section-honorsandawards';
 import SectionSkills from '../components/section-skills';
 import SEO from '../components/seo';
@@ -17,7 +17,7 @@ import SEO from '../components/seo';
 const Index = ({ data }) => {
   const about = get(data, 'site.siteMetadata.about', false);
   const education = get(data, 'site.siteMetadata.education', false);
-  const publication = get(data, 'site.siteMetadata.publication', false);
+  const publications = get(data, 'site.siteMetadata.publications', false);
   const projects = get(data, 'site.siteMetadata.projects', false);
   const experience = get(data, 'site.siteMetadata.experience', false);
   const skills = get(data, 'site.siteMetadata.skills', false);
@@ -33,8 +33,8 @@ const Index = ({ data }) => {
       {education && education.length && (
         <SectionEducation education={education} />
       )}
-      {publication && publication.length && (
-        <SectionExperience publication={publication} />
+      {publications && publications.length && (
+        <SectionPublications publications={publications} />
       )}
       {experience && experience.length && (
         <SectionExperience experience={experience} />
