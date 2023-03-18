@@ -75,10 +75,12 @@ exports.createSchemaCustomization = ({ actions }) => {
       github: String
       linkedin: String
       about: String
-      projects: [SectionItem]
-      experience: [SectionItem]
       education: [SectionItem]
+      publication: [SectionItem]
+      experience: [SectionItem]
+      projects: [SectionItem]
       skills: [SectionItem]
+      honorsandawards: [SectionItem]
     }
 
     type SectionItem {

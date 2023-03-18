@@ -16,25 +16,26 @@ github: `https://github.com/ManjiaIsla`,
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
     about: `A self-motivated technology enthusiast with proven skills and in depth knowledge in programming and algorithm. Have extensive research in AI and good at machine learning and deep learning. Proficient in using data-driven methods to design and monitor learning effects, identify bottlenecks and continue to optimize, practice in the fields of commodity retail and financial technology`,
-    // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
+    // Optional: List your education, they must have `name` and `description`. `link` is optional.
+    education: [
       {
-        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
-        description:
-          'my undergraduate thesis supervised by Zheng Jun and publish on Peking University Core "Economic Mathematics',
-        link: 'https://www.cnki.com.cn/Article/CJFDTotal-JJSX202002014.htm',
-      },
-      {
-        name: 'Personalized and Adaptive Multi-Objective Scoring Fusion Network [Inprogress]',
-        description:
-          'Proposed an efficient way to transform the paradigm in the recall layer of recommender system into multi-task learning. Get verified on video recommender in Tencent and public dataset in Alibaba.',
+        name: '2019.09 - 2020.11   Hong Kong University of Science and Technology',
+        description: 'Master of Science in Data-driven Modeling',
         link: '',
       },
       {
-        name: 'Recommendation Engine',
+        name: '2015.09 - 2019.06   Guangdong University of Finance and Economics',
+        description: 'Bachelor of Science in Applied Statistics and  Bachelor of Economics in Financial Engineering',
+        link: '',
+      }      
+    ],
+    // Optional: List your publication, they must have `name` and `description`. `link` is optional.
+    publication: [
+      {
+        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'Build a Recommendation System; Skills: TensorFlow · Algorithm and methogology · Data exploration',
-        link: 'https://github.com/ManjiaIsla/proj_v_recom',
+          'My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics, Vol.37,No.2,Jun 2020',
+        link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -55,22 +56,12 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
-    // Optional: List your education, they must have `name` and `description`. `link` is optional.
-    education: [
+    // Optional: List your project, they must have `name` and `description`. `link` is optional.
+    project: [
       {
         name: 'Recommender System | System R&D Department | Meituan',
         description: 'Algorithm Developer, May 2021 - Current',
         link: '',
-      },
-      {
-        name: 'smart QA system | AI Center | Ping An Technology',
-        description: 'Algorithm Developer, Jul 2020 - Nov 2020',
-        link: '',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -90,6 +81,57 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
           'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
       },
     ],
+      // Optional: List your honors and awards, they must have `name` and `description`. `link` is optional.
+  honorsandawards: [
+    {
+      name: 'Outstanding Graduates',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Principal/Dean scholarships',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Outstanding Student Leaders of the School',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Academic Excellence Awards',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Academic Research Awards',
+      description:
+        '',
+      link: '',
+    },
+    {
+      name: 'Student Awards of Merit',
+      description:
+        '',
+      link: '',
+    },
+  ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
