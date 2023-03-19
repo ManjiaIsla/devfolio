@@ -71,7 +71,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       // Optional: List your honors and awards, they must have `name` and `description`. `link` is optional.
   honorsandawards: [
     {
-      name: 'China Merchants Bank Competition Competition: Predictive Modeling of Credit Default Users',
+      name: 'China Merchants Bank Fintech Competition: Predictive Modeling of Credit Default Users',
       description:
         'May 2020 · Ranking Top 1%; Won both honor and Award; Issued by China Merchants Bank',
       link: '',
