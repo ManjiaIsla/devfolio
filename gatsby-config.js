@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing tons of black-boxs SOTA Algorithm at 996 factory for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
+    about: `After implementing tons of black-boxs SOTA Algorithm at Top High Tech Company for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -46,12 +46,12 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: '',
       },
       {
-        name: 'Jul - Aug, 2020               Natural Language Engineer Intern at Ping An Technology',
+        name: 'Jul 2020- Aug 2020,  Natural Language Engineer Intern at Ping An Technology',
         description: 'Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
-        name: 'May - Jul, 2020               Data Analyst Intern at ByteDance',
+        name: 'May 2020- Jul 2020,  Data Analyst Intern at ByteDance',
         description: 'biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
         link: '',
       },
@@ -77,51 +77,51 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       link: '',
     },
     {
-      name: 'Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)',
+      name: 'Outstanding Graduates',
       description:
-        'Issued by China Industry Association, China Applied Mathematics Association and Mathematical Modeling Committee · Nov 2017',
+        'Apr 2019 · Issued by Guangdong University of Finance and Economics(GDUFE)',
       link: '',
     },
     {
-      name: 'National Inspirational Scholarship',
+      name: 'Dean Scholarships',
       description:
-        'Issued by Guangdong Education Bureau · Nov 2017',
+        'Mar 2019 · Issued by GDUFE',
       link: '',
     },
     {
-      name: 'outstanding graduates',
+      name: 'Principal Scholarships',
       description:
-        'Issued by Guangdong University of Finance and Economics(GDUFE) · Apr 2019',
-      link: '',
-    },
-    {
-      name: 'dean scholarships',
-      description:
-        'Issued by GDUFE · Mar 2019',
-      link: '',
-    },
-    {
-      name: 'principal scholarships',
-      description:
-        'one of the top 5 students in Dept.Finance, Issued by GDUFE · Mar 2019',
+        'Mar 2019 · One of the top 5 students in Dept.Finance; Issued by GDUFE',
       link: '',
     },
     {
       name: 'Academic Research Award',
       description:
-        'Rank No.1 in major level, Issued by GDUFE · Feb 2019',
+        'Feb 2019 · Rank No.1 in major level; Issued by GDUFE',
       link: '',
     },
     {
       name: 'Academic Excellence Award',
       description:
-        'Obtained for two consecutive academic years; Issued by GDUFE · Nov 2017 - Nov 2018',
+        '2017 - 2018 · Obtained for two consecutive academic years; Issued by GDUFE ',
       link: '',
     },
     {
-      name: 'outstanding student leaders of the school',
+      name: 'Distinguished Student Leader',
       description:
-        'Issued by GDUFE · Sep 2018',
+        'Sep 2018 · Issued by GDUFE',
+      link: '',
+    },
+    {
+      name: 'Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)',
+      description:
+        'Nov 2017 · Issued by China Industry Association, China Applied Mathematics Association and Mathematical Modeling Committee',
+      link: '',
+    },
+    {
+      name: 'National Inspirational Scholarship',
+      description:
+        'Nov 2017 · Issued by Guangdong Education Bureau ',
       link: '',
     },
   ],
