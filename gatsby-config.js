@@ -7,7 +7,7 @@ name: 'Manjia(Lyn) LIN',
 // Main Site Title
 title: `Manjia(Lyn) LIN | Algorithm Engineer`,
 // Description that goes under your name in main bio
-description: `Mail:manjialin1@gmail`,
+description: `Mail: manjialin1@gmail`,
 // Optional: Twitter account handle
 author: `@LynLIN17424271`,
 // Optional: Github account URL
@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing tons of black-box SOTA Algorithms at Top High Tech Company for almost two years,the unsolved problem why some works fine in particular area while another does not, drive me crazy and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
+    about: `After implementing tons of black-box SOTA Algorithms at Top High Tech companys in a few years, the unsolved problem why some works fine in particular area while another does not, drive me crazy and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -34,7 +34,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       {
         name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'May 2020 · My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics',
+          'May 2020 · My undergraduate thesis was supervised by Zheng Jun and published in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
@@ -42,17 +42,17 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     experience: [
       {
         name: 'Algorithm engineer at Meituan',
-        description: '2021 - Current · Practice in Group Recommender system and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning and reinforcement learning',
+        description: '2021 - Current · Practice in Chatbot - Group Recommender System and My work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning, and reinforcement learning',
         link: '',
       },
       {
         name: 'Natural Language Engineer Intern at Ping An Technology',
-        description: 'Jul 2020- Aug 2020 · Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        description: 'Jul 2020- Aug 2020 · Funny things I did here Intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
         name: 'Data Analyst Intern at ByteDance',
-        description: 'May 2020- Jul 2020 · Biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
+        description: 'May 2020- Jul 2020 · excited about tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
         link: '',
       },
     ],  
@@ -71,7 +71,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       // Optional: List your honors and awards, they must have `name` and `description`. `link` is optional.
   honorsandawards: [
     {
-      name: 'China Merchants Bank fintech Competition - Predictive Modeling of Credit Default Users',
+      name: 'China Merchants Bank Competition Competition: Predictive Modeling of Credit Default Users',
       description:
         'May 2020 · Ranking Top 1%; Won both honor and Award; Issued by China Merchants Bank',
       link: '',
@@ -79,7 +79,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     {
       name: 'Outstanding Graduates',
       description:
-        'Apr 2019 · Issued by Guangdong University of Finance and Economics(GDUFE)',
+        'Apr 2019 · Issued by Guangdong University of Finance and Economics (GDUFE)',
       link: '',
     },
     {
@@ -97,7 +97,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     {
       name: 'Academic Research Award',
       description:
-        'Feb 2019 · Rank No.1 in major level; Issued by GDUFE',
+        'Feb 2019 · Rank No. 1 in major level; Issued by GDUFE',
       link: '',
     },
     {
@@ -113,7 +113,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       link: '',
     },
     {
-      name: 'Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)',
+      name: 'Second prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)',
       description:
         'Nov 2017 · Issued by China Industry Association, China Applied Mathematics Association and Mathematical Modeling Committee',
       link: '',
