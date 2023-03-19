@@ -15,114 +15,113 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `A self-motivated technology enthusiast with proven skills and in depth knowledge in programming and algorithm. Have extensive research in AI and good at machine learning and deep learning. Proficient in using data-driven methods to design and monitor learning effects, identify bottlenecks and continue to optimize, practice in the fields of commodity retail and financial technology`,
+    about: `After implementing tons of black-boxs Soda Algorithm at 996 factory for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
-        name: '2019.09 - 2020.11   Hong Kong University of Science and Technology',
+        name: '2019 - 2020         Hong Kong University of Science and Technology',
         description: 'Master of Science in Data-driven Modeling',
         link: '',
       },
       {
-        name: '2015.09 - 2019.06   Guangdong University of Finance and Economics',
-        description: 'Bachelor of Science in Applied Statistics and  Bachelor of Economics in Financial Engineering',
+        name: '2015 - 2019         Guangdong University of Finance and Economics',
+        description: 'Bachelor of Science in Applied Statistics;  Bachelor of Economics in Financial Engineering',
         link: '',
       }      
     ],
     // Optional: List your publications, they must have `name` and `description`. `link` is optional.
     publications: [
       {
-        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
+        name: 'May 2020            Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics, Vol.37,No.2,Jun 2020',
+          'My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Recommender System | System R&D Department | Meituan',
-        description: 'Algorithm Developer, May 2021 - Current',
+        name: '2021 - Current      Algorithm engineer at Meituan',
+        description: 'Practice in Group Recommender system and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning and reinforcement learning',
         link: '',
       },
       {
-        name: 'smart QA system | AI Center | Ping An Technology',
-        description: 'Algorithm Developer, Jul 2020 - Nov 2020',
+        name: '2020               Natural Language Engineer Intern at Ping An Technology',
+        description: 'Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: '2020               Data Analyst Intern at ByteDance',
+        description: 'biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
+        link: '',
       },
-    ],
-    // Optional: List your project, they must have `name` and `description`. `link` is optional.
-  
+    ],  
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python/Scala/Java/R/Matlab/TensorFlow/Keras/PyTorch',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
-      },
-      {
-        name: 'Other',
-        description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
-      },
+        name: 'Data Processing',
+        description: 'Hive, Spark, Tableau, Excel, Redis, Linux text processing',
+      }
     ],
       // Optional: List your honors and awards, they must have `name` and `description`. `link` is optional.
   honorsandawards: [
     {
-      name: 'Outstanding Graduates',
+      name: 'China Merchants Bank fintech Competition - Predictive Modeling of Credit Default Users',
       description:
-        '',
+        'May 2020 · Ranking Top 1%; Won both honor and Award; Issued by China Merchants Bank',
       link: '',
     },
     {
-      name: 'Principal/Dean scholarships',
+      name: 'Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)',
       description:
-        '',
+        'Issued by China Industry Association, China Applied Mathematics Association and Mathematical Modeling Committee · Nov 2017',
       link: '',
     },
     {
-      name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
+      name: 'National Inspirational Scholarship',
       description:
-        'test3',
+        'Issued by Guangdong Education Bureau · Nov 2017',
       link: '',
     },
     {
-      name: 'Second Prize at CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling)',
+      name: 'outstanding graduates',
       description:
-        'test1',
+        'Issued by Guangdong University of Finance and Economics(GDUFE) · Apr 2019',
       link: '',
     },
     {
-      name: 'Outstanding Student Leaders of the School',
+      name: 'dean scholarships',
       description:
-        'test1',
+        'Issued by GDUFE · Mar 2019',
       link: '',
     },
     {
-      name: 'Academic Excellence Awards',
+      name: 'principal scholarships',
       description:
-        'test1',
-      link: 'test1',
-    },
-    {
-      name: 'Academic Research Awards',
-      description:
-        'test1',
+        'one of the top 5 students in Dept.Finance, Issued by GDUFE · Mar 2019',
       link: '',
     },
     {
-      name: 'Student Awards of Merit',
+      name: 'Academic Research Award',
       description:
-        'test1',
+        'Rank No.1 in major level, Issued by GDUFE · Feb 2019',
+      link: '',
+    },
+    {
+      name: 'Academic Excellence Award',
+      description:
+        'Obtained for two consecutive academic years; Issued by GDUFE · Nov 2017 - Nov 2018',
+      link: '',
+    },
+    {
+      name: 'outstanding student leaders of the school',
+      description:
+        'Issued by GDUFE · Sep 2018',
       link: '',
     },
   ],
