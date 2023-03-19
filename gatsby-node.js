@@ -78,7 +78,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       education: [SectionItem]
       publications: [SectionItem]
       experience: [SectionItem]
-      projects: [SectionItem]
       skills: [SectionItem]
       honorsandawards: [SectionItem]
     }

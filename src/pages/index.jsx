@@ -8,7 +8,6 @@ import SectionAbout from '../components/section-about';
 import SectionBlog from '../components/section-blog';
 import SectionExperience from '../components/section-experience';
 import SectionEducation from '../components/section-education';
-import SectionProjects from '../components/section-projects';
 import SectionPublications from '../components/section-publications';
 import SectionHonorsAndAwards from '../components/section-honorsandawards';
 import SectionSkills from '../components/section-skills';
@@ -18,7 +17,6 @@ const Index = ({ data }) => {
   const about = get(data, 'site.siteMetadata.about', false);
   const education = get(data, 'site.siteMetadata.education', false);
   const publications = get(data, 'site.siteMetadata.publications', false);
-  const projects = get(data, 'site.siteMetadata.projects', false);
   const experience = get(data, 'site.siteMetadata.experience', false);
   const skills = get(data, 'site.siteMetadata.skills', false);
   const honorsandawards = get(data, 'site.siteMetadata.honorsandawards', false);
@@ -39,12 +37,11 @@ const Index = ({ data }) => {
       {experience && experience.length && (
         <SectionExperience experience={experience} />
       )}
-      {projects && projects.length && <SectionProjects projects={projects} />}
-      {!noBlog && <SectionBlog posts={posts} />}
       {skills && skills.length && <SectionSkills skills={skills} />}
       {honorsandawards && honorsandawards.length && (
         <SectionHonorsAndAwards honorsandawards={honorsandawards} />
       )}
+      {!noBlog && <SectionBlog posts={posts} />}
     </Layout>
   );
 };
@@ -73,11 +70,6 @@ export const pageQuery = graphql`
           link
         }
         experience {
-          name
-          description
-          link
-        }
-        projects {
           name
           description
           link

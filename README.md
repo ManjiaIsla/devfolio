@@ -2,7 +2,7 @@
 
 ![Preview](https://user-images.githubusercontent.com/9112801/96329524-c8906600-101b-11eb-8fd8-4d45e7f0cd1b.jpg)
 
-Devfolio is a modern and production-ready personal portfolio and blog template built on GatsbyJS and styled with TailwindCSS. Easily show off your projects, experience, and skills, as well as write blog posts showcasing your knowledge.
+Devfolio is a modern and production-ready personal portfolio and blog template built on GatsbyJS and styled with TailwindCSS. Easily show off your education, experience, and skills, as well as write blog posts showcasing your knowledge.
 
 Some of the features include:
 
@@ -30,7 +30,6 @@ For a live demo of a slightly customized version of the template (my own persona
   - [About Me](#about-me)
   - [Eduction](#eduction)
   - [Publications](#publications)
-  - [Projects](#projects)
   - [Experience](#experience)
   - [Skills](#skills)
   - [HonorsAndAwards](#honorsandawards)
@@ -76,18 +75,6 @@ The _Education_ section is defined as an array under the `education` key in the 
 ### Publications
 
 The _Publications_ section is defined as an array under the `publications` key in the config and is optional. Publications have the following format:
-
-```js
-{
-  name: 'Devfolio', // Required
-  description: 'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS', // Required
-  link: 'https://github.com/RyanFitzgerald/devfolio', // Optional
-}
-```
-
-### Projects
-
-The _Projects_ section is defined as an array under the `projects` key in the config and is optional. Projects have the following format:
 
 ```js
 {

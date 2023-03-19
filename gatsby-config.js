@@ -57,13 +57,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
     ],
     // Optional: List your project, they must have `name` and `description`. `link` is optional.
-    projects: [
-      {
-        name: 'Recommender System | System R&D Department | Meituan',
-        description: 'Algorithm Developer, May 2021 - Current',
-        link: '',
-      },
-    ],
+  
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
