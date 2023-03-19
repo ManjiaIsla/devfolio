@@ -7,7 +7,7 @@ name: 'Manjia(Lyn) LIN',
 // Main Site Title
 title: `Manjia(Lyn) LIN | Algorithm Engineer`,
 // Description that goes under your name in main bio
-description: `Extensive research in AI, #Data Mining #ML #DL #RL - practice in commodity retail and financial technology`,
+description: `manjialin1@gmail`,
 // Optional: Twitter account handle
 author: `@LynLIN17424271`,
 // Optional: Github account URL
@@ -15,44 +15,44 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing tons of black-boxs SOTA Algorithm at Top High Tech Company for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
+    about: `After implementing tons of black-box SOTA Algorithms at Top High Tech Company for almost two years,the unsolved problem why some works fine in particular area while another does not, drive me crazy and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
-        name: '2019 - 2020,         Hong Kong University of Science and Technology',
-        description: 'Master of Science in Data-driven Modeling',
+        name: 'Hong Kong University of Science and Technology',
+        description: '2019 - 2020 · Master of Science in Data-driven Modeling',
         link: '',
       },
       {
-        name: '2015 - 2019,         Guangdong University of Finance and Economics',
-        description: 'Bachelor of Science in Applied Statistics;  Bachelor of Economics in Financial Engineering',
+        name: 'Guangdong University of Finance and Economics',
+        description: '2015 - 2019 · Bachelor of Science in Applied Statistics;  Bachelor of Economics in Financial Engineering',
         link: '',
       }      
     ],
     // Optional: List your publications, they must have `name` and `description`. `link` is optional.
     publications: [
       {
-        name: 'May 2020,            Research on Task Pricing Model in Spatial Crowdsourcing Environment',
+        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics',
+          'May 2020 · My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: '2021 - Current,      Algorithm engineer at Meituan',
-        description: 'Practice in Group Recommender system and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning and reinforcement learning',
+        name: 'Algorithm engineer at Meituan',
+        description: '2021 - Current · Practice in Group Recommender system and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning and reinforcement learning',
         link: '',
       },
       {
-        name: 'Jul 2020- Aug 2020,  Natural Language Engineer Intern at Ping An Technology',
-        description: 'Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        name: 'Natural Language Engineer Intern at Ping An Technology',
+        description: 'Jul 2020- Aug 2020 · Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
-        name: 'May 2020- Jul 2020,  Data Analyst Intern at ByteDance',
-        description: 'biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
+        name: 'Data Analyst Intern at ByteDance',
+        description: 'May 2020- Jul 2020 · Biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
         link: '',
       },
     ],  
