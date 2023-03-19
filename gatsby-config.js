@@ -80,13 +80,13 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     {
       name: 'Outstanding Graduates',
       description:
-        'test1',
+        '',
       link: '',
     },
     {
       name: 'Principal/Dean scholarships',
       description:
-        'test2',
+        '',
       link: '',
     },
     {
