@@ -47,12 +47,12 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Natural Language Engineer Intern at Ping An Technology',
-        description: 'Jul 2020- Aug 2020 · Funny things I did here Intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        description: 'Jul 2020- Aug 2020 · Funny things I did here have intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
         name: 'Data Analyst Intern at ByteDance',
-        description: 'May 2020- Jul 2020 · excited about tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
+        description: 'May 2020- Jul 2020 · Excited about tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
         link: '',
       },
     ],  
@@ -73,7 +73,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     {
       name: 'China Merchants Bank Fintech Competition: Predictive Modeling of Credit Default Users',
       description:
-        'May 2020 · Ranking Top 1%; Won both honor and Award; Issued by China Merchants Bank',
+        'May 2020 · Ranking top 1%; Won both honor and award; Issued by China Merchants Bank',
       link: '',
     },
     {
