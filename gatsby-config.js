@@ -7,7 +7,7 @@ name: 'Manjia(Lyn) LIN',
 // Main Site Title
 title: `Manjia(Lyn) LIN | Algorithm Engineer`,
 // Description that goes under your name in main bio
-description: `manjialin1@gmail`,
+description: `Mail:manjialin1@gmail`,
 // Optional: Twitter account handle
 author: `@LynLIN17424271`,
 // Optional: Github account URL
