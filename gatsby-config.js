@@ -15,16 +15,16 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing tons of black-boxs Soda Algorithm at 996 factory for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
+    about: `After implementing tons of black-boxs SOTA Algorithm at 996 factory for almost 2 years,the un-solved problem why some works fine in particular area while another does not, drive me crazy everyday and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
-        name: '2019 - 2020         Hong Kong University of Science and Technology',
+        name: '2019 - 2020,         Hong Kong University of Science and Technology',
         description: 'Master of Science in Data-driven Modeling',
         link: '',
       },
       {
-        name: '2015 - 2019         Guangdong University of Finance and Economics',
+        name: '2015 - 2019,         Guangdong University of Finance and Economics',
         description: 'Bachelor of Science in Applied Statistics;  Bachelor of Economics in Financial Engineering',
         link: '',
       }      
@@ -32,7 +32,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     // Optional: List your publications, they must have `name` and `description`. `link` is optional.
     publications: [
       {
-        name: 'May 2020            Research on Task Pricing Model in Spatial Crowdsourcing Environment',
+        name: 'May 2020,            Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
           'My undergraduate thesis supervised by Zheng Jun and public in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
@@ -41,17 +41,17 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: '2021 - Current      Algorithm engineer at Meituan',
+        name: '2021 - Current,      Algorithm engineer at Meituan',
         description: 'Practice in Group Recommender system and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning and reinforcement learning',
         link: '',
       },
       {
-        name: '2020               Natural Language Engineer Intern at Ping An Technology',
+        name: 'Jul - Aug, 2020               Natural Language Engineer Intern at Ping An Technology',
         description: 'Funny things I did here Intrigued my curiosity in Chatbot and Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
-        name: '2020               Data Analyst Intern at ByteDance',
+        name: 'May - Jul, 2020               Data Analyst Intern at ByteDance',
         description: 'biggest Commercial Advertising Platform on china give me opportunity to play with big data and devise a tool to automately monitor business process,alerting issue and push advertisement briefs',
         link: '',
       },
@@ -61,7 +61,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       {
         name: 'Languages & Frameworks',
         description:
-          'Python/Scala/Java/R/Matlab/TensorFlow/Keras/PyTorch',
+          'Python, Scala, Java, R, Matlab, TensorFlow, Keras, PyTorch',
       },
       {
         name: 'Data Processing',
