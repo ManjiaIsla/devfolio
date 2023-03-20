@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing tons of black-box SOTA Algorithms at Top High Tech companys in a few years, the unsolved problem why some works fine in particular area while another does not, drive me crazy and I decide to start the new journey. Give it a shot to explore the mechanism behind it instead of getting the business outcome with looking fine algorithm`,
+    about: `After implementing multiple black-box SOTA algorithms at top high-tech companies in a few years, the unsolved problem of why some work fine in a particular area while another does not drove me to start a new journey. Current an algorithm engineer at Meituan, want to find an opportunity for a Ph.D. in academia. Welcomes all kinds of research collaboration and challenging problems from all aspects.`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -34,7 +34,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       {
         name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'May 2020 · My undergraduate thesis was supervised by Prof.Zheng Jun and published in Journal of Quantitative Economics',
+          'May 2020 · My undergraduate thesis was supervised by Zheng Jun and published in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
@@ -47,12 +47,12 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Natural Language Engineer Intern at Ping An Technology',
-        description: 'Jul 2020- Aug 2020 · Funny things I did here have intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        description: 'Jul 2020- Aug 2020 · Interesting things I did here have intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
         name: 'Data Analyst Intern at ByteDance',
-        description: 'May 2020- Jul 2020 · Excited about tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
+        description: 'May 2020- Jul 2020 ·  Tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
         link: '',
       },
     ],  
