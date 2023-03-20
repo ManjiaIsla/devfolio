@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing multiple black-box SOTA algorithms at top high-tech companies in a few years, the unsolved problem of why some work fine in a particular area while another does not drove me to start a new journey. I am currently an algorithm engineer at Meituan and want to find an opportunity for a Ph.D. in academia. Welcomes all kinds of research collaboration and challenges from all aspects.`,
+    about: `After implementing multiple black-box SOTA algorithms at top high-tech companies in a few years, the unsolved problem of why some work fine in a particular area while another does not drove me to start a new journey. I want to do practical research with sufficient mathematical motivation to solve real-world problems. I am currently an algorithm engineer at Meituan and want to find an opportunity for a Ph.D. in academia. Welcomes all kinds of research collaboration and challenges from all aspects.`
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
