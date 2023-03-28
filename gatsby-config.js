@@ -34,7 +34,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       {
         name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'May 2020 · My undergraduate thesis was supervised by Zheng Jun and published in Journal of Quantitative Economics',
+          'May 2020 · My undergraduate thesis was supervised by Prof.Zheng Jun and published in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
@@ -42,7 +42,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     experience: [
       {
         name: 'Algorithm engineer at Meituan',
-        description: '2021 - Current · Practice in Chatbot - Group Recommender System and My work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning, and reinforcement learning',
+        description: '2021 - Current · Practice in Chatbot - Group Recommender System and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning, and reinforcement learning',
         link: '',
       },
       {
