@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `After implementing multiple SOTA deep learning algorithms at top high-tech companies for a few years, the veiling mechanism of black-box motivates me to start a new journey. I am passionate about practical research and sufficient with mathematics background to solve real-world problems. I am currently an algorithm engineer at Meituan and looking for a Ph.D. opportunity in academia. All kinds of research collaboration and challenges from all aspects are welcome.`,
+    about: `As a Machine Learning Engineer at Meituan, I am actively seeking opportunities to pursue a Ph.D. in academia. My passion lies in projects related to AI for social good and I possess industrial experience in specialized areas such as representation learning, multi-task learning, and self-supervised learning. I welcome all forms of research collaboration and am eager to tackle challenges from various aspects.`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -25,7 +25,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Guangdong University of Finance and Economics',
-        description: '2015 - 2019 · Bachelor of Science in Applied Statistics;  Bachelor of Economics in Financial Engineering',
+        description: '2015 - 2019 · Bachelor with distinction, majoring in financial engineering and minoring in statistics.',
         link: '',
       }      
     ],
@@ -34,25 +34,25 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       {
         name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
         description:
-          'May 2020 · My undergraduate thesis was supervised by Prof.Zheng Jun and published in Journal of Quantitative Economics',
+          'May 2020 · My undergraduate thesis was supervised by Prof. Zheng Jun and published in Journal of Quantitative Economics',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Algorithm engineer at Meituan',
-        description: '2021 - Current · Practice in Chatbot - Group Recommender System and my work includes deep learning acceleration, multi-task learning optimization, representation learning (user multi-interests, price-aware recommendation), adversarial learning, and reinforcement learning',
+        name: 'Machine Learning engineer at Meituan',
+        description: '2021 - Current · My work in the field of recommender systems includes the acceleration of deep learning, optimization of multi-task learning, representation learning (including user multi-interests and price-aware recommendation), adversarial learning, and reinforcement learning.',
         link: '',
       },
       {
         name: 'Natural Language Engineer Intern at Ping An Technology',
-        description: 'Jul 2020- Aug 2020 · Interesting things I did here have intrigued my curiosity in Chatbot. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        description: 'Jul 2020- Aug 2020 · Developed name entity recogition algorithm and reading comprehension model. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
         name: 'Data Analyst Intern at ByteDance',
-        description: 'May 2020- Jul 2020 ·  Tackling big data in the industry for the first time on the largest commercial advertising platform in China and devising a tool to automatically monitor the business process, alert issues, and push advertisement briefs',
+        description: 'May 2020- Jul 2020 ·  My experience includes tackling big data in the industry on the largest commercial advertising platform in China. I have also devised a tool to automatically monitor business processes, alert for issues, and push advertisement briefs.',
         link: '',
       },
     ],  
