@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `As a Machine Learning Engineer at Meituan, I am actively seeking opportunities to pursue a Ph.D. in academia. My passion lies in projects related to AI for social good and I possess industrial experience in specialized areas such as representation learning, multi-task learning, and self-supervised learning. I welcome all forms of research collaboration and am eager to tackle challenges from various aspects.`,
+    about: `As a Machine Learning Engineer at Meituan, I am actively seeking opportunities to pursue a Ph.D. in academia. I am passionate about AI for social good and have expertise in areas such as graph learning, multi-task learning, self-supervised learning and reinforcement learning.`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -25,7 +25,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Guangdong University of Finance and Economics',
-        description: '2015 - 2019 · Bachelor with distinction, majoring in financial engineering and minoring in statistics.',
+        description: '2015 - 2019 · Dual Bachelor with Distinction(ranking 1/115), Financial Engineering and tatistics.',
         link: '',
       }      
     ],
@@ -47,7 +47,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Natural Language Engineer Intern at Ping An Technology',
-        description: 'Jul 2020- Aug 2020 · Developed name entity recogition algorithm and reading comprehension model. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
+        description: 'Jul 2020- Aug 2020 · Developed name entity recogition model and reading comprehension model. Our team developed the first financial QA system in China and applied it to finance, especially in financial policy planning',
         link: '',
       },
       {
