@@ -25,7 +25,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
       },
       {
         name: 'Guangdong University of Finance and Economics',
-        description: '2015 - 2019 · Dual Bachelor with Distinction(ranking 1/115), Financial Engineering and tatistics.',
+        description: '2015 - 2019 · Dual Bachelor with Distinction(ranking 1/115), Financial Engineering and statistics.',
         link: '',
       }      
     ],
