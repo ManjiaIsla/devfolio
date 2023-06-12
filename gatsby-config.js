@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `I am actively seeking opportunities to pursue a Ph.D. in academia. I am passionate about AI for social good and have expertise in areas such as graph learning, multi-task learning, self-supervised learning and reinforcement learning.`,
+    about: `I am passionate about AI for social good and have expertise in areas such as graph learning, multi-task learning, self-supervised learning and reinforcement learning. I am actively seeking opportunities to pursue a Ph.D. in academia.`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
