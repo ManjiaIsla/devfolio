@@ -15,7 +15,7 @@ github: `https://github.com/ManjiaIsla`,
 // Optional: LinkedIn account URL
 linkedin: `https://www.linkedin.com/in/manjia/`,
     // Content of the About Me section
-    about: `As a Machine Learning Engineer at Meituan, I am actively seeking opportunities to pursue a Ph.D. in academia. I am passionate about AI for social good and have expertise in areas such as graph learning, multi-task learning, self-supervised learning and reinforcement learning.`,
+    about: `I am actively seeking opportunities to pursue a Ph.D. in academia. I am passionate about AI for social good and have expertise in areas such as graph learning, multi-task learning, self-supervised learning and reinforcement learning.`,
     // Optional: List your education, they must have `name` and `description`. `link` is optional.
     education: [
       {
@@ -32,9 +32,9 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
     // Optional: List your publications, they must have `name` and `description`. `link` is optional.
     publications: [
       {
-        name: 'Research on Task Pricing Model in Spatial Crowdsourcing Environment',
+        name: 'J. Zheng, M. LIN, R. Hu, "Study on Task Pricing Model in Space Crowdsourcing Environment," Quantitative Economics, vol 37, no 2, pp. 104-110, Jun 2020',
         description:
-          'May 2020 · My undergraduate thesis was supervised by Prof. Zheng Jun and published in Journal of Quantitative Economics',
+          'My undergraduate thesis, supervised by Prof. Zheng Jun',
         link: 'https://caod.oriprobe.com/articles/59069265/Study_on_Task_Pricing_Model_in_Space_Crowdsourcing.htm',
       },
     ],
@@ -51,7 +51,7 @@ linkedin: `https://www.linkedin.com/in/manjia/`,
         link: '',
       },
       {
-        name: 'Data Analyst Intern at ByteDance',
+        name: 'Data Intern at ByteDance',
         description: 'May 2020- Jul 2020 ·  My experience includes tackling big data in the industry on the largest commercial advertising platform in China. I have also devised a tool to automatically monitor business processes, alert for issues, and push advertisement briefs.',
         link: '',
       },
